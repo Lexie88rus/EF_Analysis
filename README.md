@@ -2,7 +2,7 @@
 _Photo by Dan Meyers on Unsplash_
 
 # EF_Analysis
-Repositpry contains materials for EF analysis Kaggle competition
+Repository contains materials for EF analysis Kaggle competition
 
 ## NO2 Emission Factor Resources
 1. [Basic Information on EF](https://www.epa.gov/air-emissions-factors-and-quantification/basic-information-air-emissions-factors-and-quantification#About%20Emissions%20Factors)
@@ -14,4 +14,4 @@ Repositpry contains materials for EF analysis Kaggle competition
 7. [What are the greenhouse gas and air pollutant emissions factors for fuels and electricity?](https://www.eia.gov/tools/faqs/faq.php?id=76&t=11)
 8. [United States Electricity Profile 2018](https://www.eia.gov/electricity/state/unitedstates/)
 9. [Greenhouse Gases Equivalencies Calculator - Calculations and References](https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references)
-10. [Emissions & Generation Resource Integrated Database](https://www.epa.gov/energy/emissions-generation-resource-integrated-database-egrid) and [https://www.epa.gov/sites/production/files/2020-01/documents/egrid2018_summary_tables.pdf](https://www.epa.gov/sites/production/files/2020-01/documents/egrid2018_summary_tables.pdf)
+10. [Emissions & Generation Resource Integrated Database](https://www.epa.gov/energy/emissions-generation-resource-integrated-database-egrid) and [eGRID Summary Tables 2018](https://www.epa.gov/sites/production/files/2020-01/documents/egrid2018_summary_tables.pdf)
